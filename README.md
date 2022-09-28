@@ -1,3 +1,3 @@
-# React-JS-Project-Practice
+# React-JS-Project
 
 
